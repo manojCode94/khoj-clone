@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khoj-clone/static/css/main.2ac09cd7.css",
+    "main.js": "/khoj-clone/static/js/main.db84541a.js",
+    "index.html": "/khoj-clone/index.html",
+    "main.2ac09cd7.css.map": "/khoj-clone/static/css/main.2ac09cd7.css.map",
+    "main.db84541a.js.map": "/khoj-clone/static/js/main.db84541a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ac09cd7.css",
+    "static/js/main.db84541a.js"
+  ]
+}
